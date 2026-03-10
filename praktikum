@@ -41,5 +41,6 @@ float inputBerat(){
     BMI = hitungBMI (berat, tinggi);
 
     cout << endl;
-
+    cout << "--- Hasil ---" << endl;
+    cout << "BMI Anda : " << BMI << endl;
  }
