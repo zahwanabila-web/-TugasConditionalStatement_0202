@@ -43,4 +43,9 @@ float inputBerat(){
     cout << endl;
     cout << "--- Hasil ---" << endl;
     cout << "BMI Anda : " << BMI << endl;
+    cout << "Status : " << statusBMI (BMI) << endl;
+
+    return 0;
  }
+
+ 
