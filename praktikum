@@ -7,3 +7,10 @@ float inputBerat(){
     cin >> berat;
     return berat;
 }
+
+ float inputTinggi(){
+    float tinggi;
+    cout << "Masukkan tinggi badan: ";
+    cin >> tinggi;
+    return tinggi;
+ }
